@@ -1,0 +1,272 @@
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Working\NewChatting\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Working\LastDayChatting\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\Projects\ChattingNew\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\New folder\ChattingNew\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\final project\ChattingNew\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\project\Chattingworking\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\project\Chatting\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\final project\Chatting\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\FYP\Chatting\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\EntityFramework.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\EntityFramework.SqlServer.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\EntityFramework.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\EntityFramework.SqlServer.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\FYP\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\EntityFramework.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\EntityFramework.SqlServer.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Owin.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\EntityFramework.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\EntityFramework.SqlServer.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\RAJJOO\Desktop\COPY FYP\FYP\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\SignalRChat.dll.config
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\SignalRChat.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\SignalRChat.pdb
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\EntityFramework.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Owin.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\EntityFramework.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.xml
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.dll
+D:\CyberLink\ASP\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\SignalRChat.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\SignalRChat.pdb
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\EntityFramework.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Owin.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\EntityFramework.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\CYBERLINKS\Desktop\Akdmi\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.pdb
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\SignalRChat.dll.config
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\SignalRChat.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\SignalRChat.pdb
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\EntityFramework.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Owin.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\EntityFramework.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\EntityFramework.SqlServer.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\bin\Newtonsoft.Json.xml
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.csproj.AssemblyReference.cache
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.dll
+E:\Workplace\php\Shagufta\Gomal University Project\SignalRChat\obj\Debug\SignalRChat.pdb

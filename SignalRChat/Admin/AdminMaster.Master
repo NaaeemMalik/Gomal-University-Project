@@ -1,0 +1,179 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="SignalRChat.Admin.AdminMaster" %>
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>GUSP Admin Panel</title>
+     <link rel="stylesheet" type="text/css" href="css/materialize.css" />
+	<link rel="stylesheet" type="text/css" href="css/custom.css" />
+	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+	<link rel="icon" type="image/png" href="images/favicon.png" />
+	<link rel="stylesheet" href="css/font-awesome.css" />
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <%-- <ul>
+            <li class="tab col s12"><a href="#EdResources"><i class="fa fa-user"></i> Books & Notes </a></li>
+            </ul>--%>
+    <div class="row">
+	<div id="Depart" class="col m2 padding-0" style="height: 800px; background: #fff; position: fixed">
+		<center><img src="images/favicon.png" width="40%" style="margin: 18px 0px" alt="Gomal University D.I.Khan" /></center>
+       
+		<ul class="tab">
+	        
+            <li class="waves-effect waves-light btn col s12 active"><a href="AdminHome.aspx" class="white-text left"><i class="fa fa-home"></i> Home</a></li>
+            <li class="waves-effect waves-light btn col s12"><a href="Departments.aspx" class="white-text left"><i class="fa fa-user"></i> Departments</a></li>
+             <li class="waves-effect waves-light btn col s12"><a href="Staff.aspx" class="white-text left"><i class="fa fa-circle"></i> Staff</a></li>
+	        <li class="waves-effect waves-light btn col s12"><a href="Programs.aspx" class="white-text left"><i class="fa fa-user"></i> Programs</a></li>
+            <li class="waves-effect waves-light btn col s12"><a href="EdResources.aspx" class="white-text left"><i class="fa fa-user"></i> Books & Notes </a></li>
+	       
+      	</ul>      
+    
+    </div>
+	<div class="col m10 padding-0 right">
+	  <div class="card teal" style="margin-top: 0px !important">
+	    <div class="card-content white-text">
+	      <span class="card-title center-align"><h3>GU Student Portal</h3></span>
+	      <p></p>
+	    </div>
+		</div>
+
+	  <div class="container">	
+         <div id="home" class="col 12">
+         </div>
+
+          <asp:ContentPlaceHolder ID="ContentPlaceHolder_BODY" runat="server">
+
+
+          </asp:ContentPlaceHolder>
+
+
+
+           <%----------------- This is Educational Resources -----------------------%>
+       <%--  <div id="EdResources" class="col 12">
+            <div id="div_body">
+
+
+        <asp:Panel ID="Panel1" runat="server">
+        <asp:TextBox ID="txtsearch" class="validate" placeholder="Enter Book Name" runat="server"></asp:TextBox>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="btnSearch" runat="server" CssClass=" left btn waves-effect waves-light primary-color" Text="Search" OnClick="btnSearch_Click"  />
+            &nbsp;&nbsp;
+        <asp:Button ID="btnShowAll" runat="server" CssClass=" left btn waves-effect waves-light primary-color" Text="Show All" OnClick="btnShowAll_Click"  />
+            <br />
+            <br />
+            <br />
+
+            <asp:Label ID="Label1" runat="server" Text="Select Book Please :"></asp:Label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:FileUpload ID="uploadFile" runat="server" />
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="uploadFile" Font-Size="20pt" ForeColor="Red">*</asp:RequiredFieldValidator>
+            <br />
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="Select Book Image :"></asp:Label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:FileUpload ID="UploadImage" runat="server" />
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="UploadImage" Font-Size="20pt" ForeColor="Red">*</asp:RequiredFieldValidator>
+            <br />
+            <br />
+            &nbsp;
+            <asp:Button ID="btnUpload" runat="server" CssClass=" left btn waves-effect waves-light primary-color"  Text="Upload" Width="143px" OnClick="btnUpload_Click" />
+            <asp:Label ID="lblerror" runat="server" ForeColor="Red"></asp:Label>
+            <br />
+            <br />
+            <asp:GridView ID="grvBook" runat="server" AutoGenerateColumns="False" CellPadding="4" GridLines="None" OnRowCommand="grvBook_RowCommand" Width="597px" AllowPaging="True" OnPageIndexChanging="grvBook_PageIndexChanging" PageSize="2" OnRowDeleting="grvBook_RowDeleting" OnRowDataBound="grvBook_RowDataBound" >
+                <AlternatingRowStyle BackColor="White" />
+                <Columns>
+                    <asp:BoundField DataField="BookID" HeaderText="Book ID" />
+                    <asp:ImageField HeaderText="Image" DataImageUrlField="ImageURL">
+                        <ControlStyle Height="180px" Width="140px" />
+                        <ItemStyle Height="174px" Width="134px" />
+                    </asp:ImageField>
+                    <asp:BoundField DataField="BookURL" HeaderText="File Name" />
+                    <asp:ButtonField HeaderText="Details" Text="View" CommandName="MyDetail" />
+                    <asp:ButtonField HeaderText="Status" DataTextField="BookStatus" Text="Change" CommandName="isActive" />
+                    <asp:CommandField ShowDeleteButton="True" HeaderText="Action" />
+                </Columns>
+                <EditRowStyle BackColor="#7C6F57" />
+                <FooterStyle BackColor="#009688" ForeColor="White" Font-Bold="True" />
+                <HeaderStyle BackColor="#009688"  Font-Bold="True" ForeColor="White" />
+                <PagerStyle BackColor="#666666" ForeColor="White" HorizontalAlign="Center" Font-Size="30px" />
+                <RowStyle BackColor="#E3EAEB" />
+                <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+                <SortedAscendingCellStyle BackColor="#F8FAFA" />
+                <SortedAscendingHeaderStyle BackColor="#246B61" />
+                <SortedDescendingCellStyle BackColor="#D4DFE1" />
+                <SortedDescendingHeaderStyle BackColor="#15524A" />
+            </asp:GridView>
+
+        </asp:Panel>
+
+        <asp:Panel ID="Panel2" runat="server" Height="513px">
+            <div>
+                <div id="divLeft">
+                    <asp:Image ID="Image1" runat="server" Height="450px" Width="340px" />
+                    <br />
+                </div>
+                <div id="divRight">
+                    <asp:DetailsView ID="DetailsView1" runat="server" Height="50px" Width="244px" AutoGenerateRows="False" BackColor="White" BorderColor="#999999" BorderStyle="None" BorderWidth="1px" CellPadding="3" GridLines="Vertical">
+                        <AlternatingRowStyle BackColor="Gainsboro" />
+                        <EditRowStyle BackColor="#008A8C" Font-Bold="True" ForeColor="White" />
+                        <Fields>
+                            <asp:BoundField DataField="BookID" HeaderText="Book ID" />
+                            <asp:BoundField DataField="BookURL" HeaderText="Book Name" />
+                            <asp:BoundField DataField="BookType" HeaderText="Book Type" />
+                            <asp:BoundField DataField="BookSize" HeaderText="Size" />
+                        </Fields>
+                        <FooterStyle BackColor="#CCCCCC" ForeColor="Black" />
+                        <HeaderStyle BackColor="#009688" Font-Bold="True" ForeColor="White" />
+                        <PagerStyle BackColor="#999999" ForeColor="Black" HorizontalAlign="Center" />
+                        <RowStyle BackColor="#EEEEEE" ForeColor="Black" />
+                    </asp:DetailsView>
+                    <br />
+                    <br />
+                    <asp:LinkButton ID="btnBack" runat="server" OnClick="btnBack_Click1">  &lt;  Back</asp:LinkButton>
+                </div>
+            </div>
+        </asp:Panel>
+    </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br /> 
+         </div>--%>
+
+
+
+		
+       
+
+
+		
+	</div>
+    
+</div>
+
+</div>
+
+	<!-- scripts -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/materialize.js"></script>
+	<script type="text/javascript" src="js/custom.js"></script>
+	<!-- scripts -->
+
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

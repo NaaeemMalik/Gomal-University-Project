@@ -1,0 +1,220 @@
+body {
+	/*background-image: url(../images/back.jpg);*/
+}
+body::-webkit-scrollbar {
+  width: .6em;
+}
+body::-webkit-scrollbar-track {
+    /*-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);*/
+} 
+body::-webkit-scrollbar-thumb {
+  background-color: #003F71;
+  outline: 1px solid #003F71;
+}
+        .hide {
+            display: none;
+        }
+
+        .show {
+            display: block;
+        }
+::selection {
+background: #003F71;
+color: #fff; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+background: #3b3b3b;
+color: #fff;
+/* Gecko Browsers */
+}
+.primary-color {
+	background-color: #003F71 !important;
+}
+.secondary-color {
+	background-color: #F2C100 !important;
+}
+.uos-shadow {
+	box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+/*h1,h2,h3,h4,h5,h6 {
+	color: #53504f;
+}*/
+/* label color */
+.input-field label {
+ color: #ccc;
+}
+/* label focus color */
+.input-field input[type=text]:focus + label {
+ color: #003F71;
+}
+/* label focus color */
+.input-field input[type=email]:focus + label {
+ color: #003F71;
+}
+/* label focus color */
+.input-field input[type="checkbox"]:checked + label {
+ color: #003F71;
+}
+.input-field input[type="checkbox"]:checked + label:before {
+border-right: 2px solid #003F71;
+border-bottom: 2px solid #003F71;
+}
+/* label underline focus color */
+.input-field input[type=text]:focus {
+ border-bottom: 1px solid #003F71;
+ box-shadow: 0 1px 0 0 #003F71;
+}
+/* label underline focus color */
+.input-field input[type=email]:focus {
+ border-bottom: 1px solid #003F71;
+ box-shadow: 0 1px 0 0 #003F71;
+}
+/* valid color */
+.input-field input[type=text].valid {
+ border-bottom: 1px solid #003F71;
+ box-shadow: 0 1px 0 0 #003F71;
+}
+/* invalid color */
+.input-field input[type=text].invalid {
+ border-bottom: 1px solid #003F71;
+ box-shadow: 0 1px 0 0 #003F71;
+}
+/* icon prefix focus color */
+.input-field .prefix.active {
+ color: #003F71;
+}
+.emp-space-1 {
+	height: 10px;
+	clear: both;
+}
+.emp-space-2 {
+	height: 20px;
+	clear: both;
+}
+.emp-space-3 {
+	height: 30px;
+	clear: both;
+}
+.emp-space-4 {
+	height: 40px;
+	clear: both;
+}
+.emp-space-5 {
+	height: 50px;
+	clear: both;
+}
+.white-line-1 {
+	border: 1px solid #ffffff;	
+}
+.white-line-2 {
+	border: 2px solid #ffffff;
+}
+.white-line-3 {
+	border: 3px solid #ffffff;
+}
+.white-line-4 {
+	border: 4px solid #ffffff;
+}
+.white-line-5 {
+	border: 5px solid #ffffff;
+}
+.light-blue-line-1 {
+	border: 1px solid #03a9f4;	
+	width: 15%;
+}
+.line-center {
+	margin: 0 auto;
+}
+.text-uppercase {
+	text-transform: uppercase !important;
+}
+.reveal-body {
+	margin-bottom: 260px;
+	background-image: url(../images/back.jpg);
+}
+.revealed-footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	z-index: -1000;
+}
+
+@media only screen and (max-width: 767px) {
+	.reveal-body {
+		margin-bottom: 425px !important;
+	}
+}
+/*video cover*/
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
+/*video cover end*/
+
+
+#Depart ul.tabs {
+	flex-direction: column;
+  height: 100%;
+  float: left;
+  width: 20%
+  background-color: transparent !important;
+} 
+#Depart ul.tabs .indicator {
+  display: none;
+}
+#Depart ul.tabs li.active {
+	background-color: #003F71;
+}
+#Depart .tabs .tab a {
+	text-align: left;
+	padding-left: 20px;
+	border-right: 1px solid #003F71;
+	color: #003F71;
+}
+#Depart .tabs .tab a:hover {
+    color: #ffffff;
+    background-color: #003F71;
+}
+.margin-top-0 {
+	margin-top: 0px;
+}
+.transparent-back {
+	background-color: transparent;
+}
